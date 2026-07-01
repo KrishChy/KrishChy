@@ -145,7 +145,7 @@ Modern portfolio website built with HTML, CSS & JavaScript.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_UPWORK">
+<a href="https://www.upwork.com/freelancers/~019a73305db220a10e?mp_source=share">
 <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
