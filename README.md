@@ -42,7 +42,7 @@ const krish = {
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,mysql"/>
 </p>
 
 ### Tools
