@@ -71,26 +71,6 @@ const krish = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KrishChy&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishChy&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🚲 GreenPadel
