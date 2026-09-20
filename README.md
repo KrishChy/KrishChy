@@ -48,7 +48,7 @@ const krish = {
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
